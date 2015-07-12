@@ -1,6 +1,6 @@
-# Present
+# Serpent
 
-C++实现Present。
+C++实现Serpent。
 
 参考资料
 《PRESENT： An Ultra-Lightweight Block Cipher》
