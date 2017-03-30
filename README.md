@@ -1,8 +1,6 @@
-# Serpent
+# [Serpent A Proposal for the Advanced Encryption Standard]
 
-C++实现Serpent。
+This code is from linux kernel.
 
-参考资料
-《PRESENT： An Ultra-Lightweight Block Cipher》
-《Serpent A Proposal for the Advanced Encryption Standard》
-《Speeding up Serpent》
+  [Serpent A Proposal for the Advanced Encryption Standard]:<http://www.cl.cam.ac.uk/~rja14/Papers/serpent.pdf>
+
